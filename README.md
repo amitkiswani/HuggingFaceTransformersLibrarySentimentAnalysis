@@ -1,4 +1,4 @@
-# TransformersLibrarySentimentAnalysis
+# SentimentAnalysis using HuggingFace TransformersLibrary 
 Transformers library for sentiment analysis tasks
 
 Python script that demonstrates how to use the Transformers library for sentiment analysis tasks. Here's a breakdown of the different sections:
